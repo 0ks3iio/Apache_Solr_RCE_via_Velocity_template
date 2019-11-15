@@ -5,7 +5,5 @@ from: https://gist.githubusercontent.com/s00py/a1ba36a3689fa13759ff910e179fc133/
 ```
 爱国守法
 ```
-![0](https://github.com/wyzxxz/Apache_Solr_RCE_via_Velocity_template/blob/master/1.png)
-
 
 
